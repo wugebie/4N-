@@ -449,7 +449,7 @@ window.onscroll = function (ev) {
         conTexts[4].style.paddingLeft = '0%';
         textBlocks[4].style.marginLeft =  '0%';
         conImg.style.marginLeft = '0%';
-        console.log(windowY);
+       
         /*if(windowY>17500){
             location.href = '../EndShow/EndShow.html';
         }*/
