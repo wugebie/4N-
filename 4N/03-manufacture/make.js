@@ -243,7 +243,7 @@ window.onload = function(){
 	}
 	function slowMove(obj,s){
 		var l = parseFloat( getComputedStyle(obj).paddingLeft );
-		console.log(l)
+	
 		obj.style.paddingLeft = l - s + 'px';
 	}
     
